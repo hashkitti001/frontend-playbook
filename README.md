@@ -68,6 +68,18 @@
 </details>
 <details>
 <summary>Advanced</summary>
+  **1.JavaScript**
+  - Object Oriented Programming
+  - Asynchronous JavaScript (await, async functions, Promises)
+  - Garbage Collection and Memory Management
+  - Modular JavaScript
+  - Frameworks and Libraries(React.js, Express.js) and the Node.js runtime environment
+  
+  **2.CSS**
+  - CSS Transforms
+  - Animations
+  - Transitions
+  - Form Validation with CSS
 </details>
 
 ## Phase Two: Building
